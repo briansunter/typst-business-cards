@@ -1,4 +1,4 @@
-# Typeset Templates
+# Typeset Business Card Templates
 
 A collection of professionally-designed business card templates for Typeset. Each template is carefully crafted with attention to typography, spacing, and visual hierarchy to help you create stunning business cards that make a lasting impression.
 
