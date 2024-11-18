@@ -6,6 +6,19 @@ A collection of professional and modern Typeset templates for various document t
 
 <div align="center">
 
+> ### 🎨 Refine
+> 
+> A refined business card template with classic elegance
+> 
+> ![Refine Template](images/refine.svg)
+> 
+> - Classic serif typography with Baskerville
+> - Balanced layout with perfect proportions
+> - Customizable accent colors and styling
+> - Professional contact information presentation
+>
+> **[View Template →](refine/)**
+
 > ### 📄 Simple Modern
 > 
 > A clean and minimalist template with modern typography and layout
