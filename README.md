@@ -1,86 +1,99 @@
 # Typeset Templates
 
-A collection of professional and modern Typeset templates for various document types.
+A collection of professionally-designed business card templates for Typeset. Each template is carefully crafted with attention to typography, spacing, and visual hierarchy to help you create stunning business cards that make a lasting impression.
 
 ## Available Templates
 
 <div align="center">
 
+> ### 🔵 Full Circle
+>
+> A modern business card with a striking circular monogram
+>
+> ![Full Circle Template](images/full-circle.svg)
+>
+> - Eye-catching circular monogram that draws attention
+> - Versatile design works for any industry
+> - Perfect balance of personal branding and professionalism
+> - Customizable color schemes to match your brand
+>
+> **[View Template →](full-circle/)**
+
 > ### 🎨 Refine
 > 
-> A refined business card template with classic elegance
+> An elegant business card that makes a lasting impression
 > 
 > ![Refine Template](images/refine.svg)
 > 
-> - Classic serif typography with Baskerville
-> - Balanced layout with perfect proportions
-> - Customizable accent colors and styling
-> - Professional contact information presentation
+> - Timeless design with premium Baskerville typography
+> - Thoughtful spacing that guides the eye
+> - Luxurious feel with customizable accents
+> - Perfect for creative and professional services
 >
 > **[View Template →](refine/)**
 
 > ### 📄 Simple Modern
 > 
-> A clean and minimalist template with modern typography and layout
+> A clean business card that lets your details shine
 > 
 > ![Simple Modern Template](images/simple-modern.svg)
 > 
-> - Optimized typography with perfect vertical rhythm
-> - Responsive margins and balanced whitespace
-> - Support for figures, tables, and code blocks
-> - Customizable color schemes and fonts
+> - Crisp, minimalist layout that's easy to read
+> - Modern typography that stands out
+> - Flexible design adapts to any content length
+> - Ideal for tech and contemporary businesses
 >
 > **[View Template →](simple-modern/)**
 
 > ### 📚 Bold Serif
 > 
-> A sophisticated template with strong typographic hierarchy
+> A confident business card with commanding presence
 > 
 > ![Bold Serif Template](images/bold-serif.svg)
 > 
-> - Professional serif typography with modern touches
-> - Clear section and subsection organization
-> - Built-in citation and bibliography support
-> - Multiple column layout options
+> - Strong typography that demands attention
+> - Strategic use of white space
+> - Perfect hierarchy of contact information
+> - Excellent for legal and financial professionals
 >
 > **[View Template →](bold-serif/)**
 
 > ### 📚 Elegant Serif
 > 
-> A refined academic template with classic styling
+> A sophisticated business card with timeless appeal
 > 
 > ![Elegant Serif Template](images/elegant-serif.svg)
 > 
-> - Traditional serif fonts optimized for readability
-> - Advanced mathematical typesetting support
-> - Integrated figure and table numbering
-> - Multiple bibliography style options
+> - Classic design that never goes out of style
+> - Refined typography for ultimate readability
+> - Balanced layout with perfect proportions
+> - Ideal for consultants and executives
 >
 > **[View Template →](elegant-serif/)**
 
 > ### 👤 Big Name
 > 
-> A striking resume template with modern aesthetics
+> A bold business card that puts your name first
 > 
 > ![Big Name Template](images/big-name.svg)
 > 
-> - Bold name presentation with custom typography
-> - Smart space distribution for content sections
-> - Built-in icons and skill rating system
-> - Professional contact information layout
+> - Dramatic name presentation that gets noticed
+> - Modern layout with perfect proportions
+> - Smart use of typography and spacing
+> - Great for personal branding and freelancers
 >
 > **[View Template →](big-name/)**
 
 > ### 💼 Patrick Bateman
 > 
-> An executive-style resume inspired by classic business cards
+> A luxury business card with executive presence
 > 
 > ![Patrick Bateman Template](images/patrick-bateman.svg)
 > 
-> - Sophisticated business card-inspired design
-> - Premium typography and spacing
-> - Elegant contact information presentation
-> - Subtle textures and professional details
+> - Premium design inspired by high-end stationery
+> - Sophisticated typography and subtle textures
+> - Meticulous attention to every detail
+> - Perfect for executives and luxury brands
 >
 > **[View Template →](patrick-bateman/)**
 
